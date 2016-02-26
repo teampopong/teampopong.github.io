@@ -46,6 +46,17 @@ people:
     - title: google-plus
       url: #
 
+# Partners
+partners:
+- image: partner-cckorea.png
+  url: http://cckorea.org/
+- image: partner-okfkorea.png
+  url: http://okfn.kr/
+- image: partner-sunlight.png
+  url: http://sunlightfoundation.com/
+- image: partner-openparl.png
+  url: http://openingparliament.org/
+
 # Social networks usernames
 # (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

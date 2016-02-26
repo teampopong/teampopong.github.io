@@ -1,0 +1,13 @@
+<aside id="partners">
+    <div class="container">
+        <div class="row">
+            {% for partner in site.partners %}
+            <div class="col-md-3 col-sm-6">
+                <a href="{{ partner.url }}">
+                    <img src="img/partners/{{ partner.image }}" class="partner-logo img-responsive img-centered">
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</aside>

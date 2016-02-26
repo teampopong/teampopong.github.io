@@ -52,6 +52,19 @@ ul.social-buttons li a {
     font-weight: normal;
 }
 
+#partners {
+    padding: 10px;
+}
+
+#partners .partner-logo {
+    opacity: 0.4;
+    filter: grayscale(100%);
+        -webkit-filter: grayscale(100%);
+        -moz-filter: grayscale(100%);
+        -o-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
     margin: 20px;
     text-align: left;
