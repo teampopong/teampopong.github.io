@@ -1,0 +1,27 @@
+header {
+    color: rgba(53, 62, 72, .9);
+}
+
+header .intro-text .intro-heading {
+    margin-bottom: 20px;
+}
+
+header .intro-text .intro-lead-in {
+    font-family: sans-serif;
+    font-style: normal;
+    margin-bottom: 40px;
+}
+
+ul.social-buttons li a {
+    background-color: rgba(53, 62, 72, .7);
+    margin-bottom: 150px;
+}
+
+.logo {
+    margin-top: -10px;
+    max-width: 200px;
+}
+
+.navbar-default.navbar-shrink {
+    background-color: rgba(53, 62, 72, .5);
+}
