@@ -2,6 +2,10 @@ body {
     word-break: keep-all;
 }
 
+p {
+    font-size: 13pt;
+}
+
 header {
     color: #{{ site.color.secondary-dark }};
 }
@@ -37,6 +41,15 @@ ul.social-buttons li a {
 
 .navbar-default.navbar-shrink {
     background-color: rgba(53, 62, 72, .5);
+}
+
+#contact a.btn {
+    margin: 30px;
+    height: 90px;
+}
+
+#contact a.btn small {
+    font-weight: normal;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
