@@ -1,0 +1,8 @@
+---
+title: POODL
+subtitle: 2014~
+layout: default
+link: http://data.popong.com
+thumbnail: api.png
+description: 매일 선관위와 국회 등 국가 공식 홈페이지에 업데이트 되는 정보를 수집하여 API와 batch data의 형태로 제공합니다.
+---
