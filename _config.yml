@@ -3,7 +3,7 @@ baseurl: ""
 
 # Site settings
 title: Team POPONG
-email: contact@popong.com
+blog: http://blog.popong.com/ko/
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -11,40 +11,114 @@ color:
   secondary: fec503  
   secondary-dark: 333
 
-# Team names, titles and social links
-people:
-- name: A
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: B
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: C
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# Events
+events:
+- date: 2015-10-02
+  title: Team POPONG and 大韓民國國會監視
+  location: Congress Reform and Watch International Conference (Taipei, Taiwan)
+  url: #
+  desc: We thank <a href="http://ccw.org.tw/">CCW</a> for the travel support.
+#- date: 2015-02-05
+#  url: http://www.lucypark.kr/slides/2015-lodac/
+#  title: 린 정부와 대한민국 정치의 모든 것
+#  location: Linked Open Data Annual Conference (Seoul, Korea)
+#- date: 2014-04-02
+#  location: OpeningParliament.org
+#  url: http://blog.openingparliament.org/post/81504081761/case-study-10-team-popongs-pokr-project
+#  title: Case Study 10 - POPONG’s Pokr Project
+#- date: 2014-01-28
+#  location: 청년허브
+#  url: http://youthhub.kr/notices/52e7a45acf97721f7c000110
+#  title: 팀포퐁 인터뷰
+#- date: 2014-01-09
+#  location: 서울공대이야기
+#  url: http://be.ipems.com/notice/50407
+#  title: 서울대 산업공학과 박은정 外 연합팀 '팀포퐁' &lt;투모로우솔루션 공모전&gt; 미래창조과학부 장관상 수상
+#- date: 2014-01-06
+#  location: Creative Commons Korea
+#  url: http://www.cckorea.org/xe/?document_srl=733241
+#  title: CC 라이선스 국내사례 - 대한민국 정치의 모든 것
+#- date: 2013-12-27
+#  location: 투모로우솔루션
+#  url: http://tomorrowsolutions.tistory.com/137
+#  title: 투모로우 솔루션, 이제부터 진짜 시작이다!
+#- date: 2013-12-27
+#  location: 동아일보
+#  url: http://news.donga.com/3/all/20131227/59810220/1
+#  title: 의원 입법활동 감시 사이트 개발… 본보 보도 ‘포퐁’팀 미래부 장관상
+#- date: 2013-12-26
+#  location: 뉴스타운
+#  url: http://www.newstown.co.kr/news/articleView.html?idxno=159286
+#  title: 서울대 산업공학과 연합팀 투모로우솔루션 공모전 미래창조과학부 장관상 수상
+#- date: 2013-12-23
+#  location: 삼성반도체이야기
+#  url: http://samsungsemiconstory.com/544
+##  title: 내일의 주역 창조인재, 그들의 아이디어는?
+#- date: 2013-12-20
+#  location: 청년허브
+#  url: http://www.youthhub.kr/notices/52b40e73cf9772efb70000bd
+#  title: 팀포퐁, 삼성전자와 미래창조과학부 주관 Tomorrow Solutions 청년부 최고상 수상!
+#- date: 2013-12-20
+#  location: 한국일보
+#  url: http://news.hankooki.com/lpage/people/201312/h2013122003380091560.htm
+#  title: 정치를 더 쉽게 접할 수 있게… 노력 인정받아 기뻐요
+#- date: 2013-12-18
+#  location: 연합뉴스
+#  url: http://www.yonhapnews.co.kr/economy/2013/12/18/0302000000AKR20131218200000003.HTML
+#  title: 삼성전자-미래부, '투모로우 솔루션' 공모전 시상식
+#- date: 2013-12-18
+#  location: 중앙일보
+#  url: http://money.joins.com/news/article/article.asp?total_id=13432249&ctg=1105
+#  title: 범죄예방 커뮤니티 앱 등 미래창조과학부장관상 수상
+#- date: 2013-12-18
+#  location: 이데일리
+#  url: http://www.edaily.co.kr/news/NewsRead.edy?SCD=JC51&newsid=03289846603039832&DCD=A00305
+#  title: 미래부-삼성 아이디어 공모전 '문샷' '포퐁' 등 수상
+#- date: 2013-12-26
+#  location: etnews
+#  url: http://www.etnews.com/news/economy/education/2891493_1491.html
+#  title: 서울대 박은정 외 연합팀 `팀포퐁` 미래부 장관상 수상
+- date: 2014-11-09
+  url: http://www.lucypark.kr/slides/2014-g0v/
+  title: How We Open the National Assembly in South Korea with Technology
+  location: g0v Summit (Taipei, Taiwan)
+  desc: We thank <a href="http://g0v.tw">g0v</a> for the travel support.
+- date: 2014-05-07
+  url: http://slides.com/e9t/2014-ogp
+  title: Different roles in diffusing legislative data
+  location: OGP Asia Pacific Regional Conference (Bali, Indonesia)
+  desc: We thank <a href="http://ndi.org/">NDI</a> for the travel support.
+- date: 2014-02-11
+  url: http://slides.com/e9t/popong/
+  title: Introduction to Politics in South Korea & Team POPONG
+  location: Sunlight Foundation Brown Bag Lunch (Washington D.C., USA)
+  desc: We thank <a href="http://sunlightfoundation.com">Sunlight Foundation</a> for the travel support.
+#- date: 2013-11
+#  url: http://slides.com/e9t/2013-kswc
+#  title: 대한민국 정치의 모든 것 - 쉽고 재밌는 일상 속 정치 만들기
+#  location: Korea Semantic Web Conference (Seoul, Korea)
+#- date: 2013-12-19
+#  location: 이데일리
+#  url: http://www.edaily.co.kr/news/NewsRead.edy?col_cd=Z&DCD=A306&newsid=03309526603040160
+#  title: [기자수첩] 창조경제 '기업이 끌고 정부가 밀고'
+#- date: 2013-11-12
+#  location: 투모로우솔루션
+#  url: http://tomorrowsolutions.tistory.com/117
+#  title: 우리의 우리에 의한 우리를 위한 민주주의를 위해 포퐁에 퐁당~
+#- date: 2013-10-24
+#  location: 투모로우솔루션
+#  url: http://tomorrowsolutions.tistory.com/87
+#  title: 대한민국 정치의 모든 것, 포퐁팀
+- date: 2013-12-18
+  location: 이데일리
+  url: http://www.edaily.co.kr/news/NewsRead.edy?newsid=03293126603039832&SCD=JC51&DCD=A00305
+  title: 의미 없어 보이는 일들이 결국 세상 바꿔
+  desc: “모두 학생이고 다른 본업이 생겨 사이트 운영을 그만 둘 수 있는데, 이 사이트가 지속되려면 누구나 포커의 코드와 데이터를 가져다 더 많은 가치를 창출하도록 오픈 소스를 지향하고 있다”
+- date: 2013-08-12
+  location: 동아일보
+  url: http://news.donga.com/3/all/20130812/56966429/1
+  title: 젊은 그들 '국회의원 입법활동 감시' 인터넷 판 벌였다
+  desc: “정보 기술이 발전했지만 국민들이 의회와 법안 정보에 유기적으로 접근할 수 있는 통로는 제한돼 있었다”
 
 # Partners
 partners:
