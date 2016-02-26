@@ -1,5 +1,13 @@
+body {
+    word-break: keep-all;
+}
+
 header {
-    color: rgba(53, 62, 72, .9);
+    color: #{{ site.color.secondary-dark }};
+}
+
+header .intro-text {
+    padding-top: 200px;
 }
 
 header .intro-text .intro-heading {
