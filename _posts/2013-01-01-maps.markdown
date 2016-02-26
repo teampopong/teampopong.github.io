@@ -1,0 +1,8 @@
+---
+title: 대한민국 지도 데이터형 변환
+subtitle: 2013~
+layout: default
+link: https://github.com/southkorea/southkorea-maps
+thumbnail: maps.png
+description: 행정동을 기반으로 한 대한민국 지도를 GeoJSON, TopoJSON 등 다양한 형태로 변환하여 사용하기 쉽게 만들었습니다.
+---

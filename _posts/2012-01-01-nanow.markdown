@@ -1,0 +1,8 @@
+---
+title: 국회는 지금
+subtitle: 2012
+layout: default
+link: http://labs.popong.com/codenamu/
+thumbnail: nanow.png
+description: 18대 국회(2008-2012)의 정당별, 연령별, 지역별, 성별, 당선횟수별 좌석배치를 볼 수 있어요.
+---

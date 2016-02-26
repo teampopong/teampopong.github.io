@@ -1,0 +1,8 @@
+---
+title: 대한민국 정치의 모든 것 (대정모)
+subtitle: 2014~
+layout: default
+link: http://pokr.kr
+thumbnail: pokr.png
+description: 역대 모든 국회의원 후보자와 당선자, 발의되 의안과 회의록을 한 곳에서 보세요! 가입하면 내가 살고 있는 지역, 내 관심사에 대한 의안 발의 내역을 보여드립니다.
+---

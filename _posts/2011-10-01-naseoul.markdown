@@ -1,0 +1,8 @@
+---
+title: 나는 서울시장이다!
+subtitle: 2011
+layout: default
+link: http://popong.com/iamseoulmayor/
+thumbnail: naseoul.png
+description: 2011년 10.26 서울시장 선거를 위해 개발된 서비스. 박원순 후보와 나경원 후보의 프로필, 공약, 그리고 주요 이슈를 담은 타임라인을 한 눈에 비교하기 쉽게 만들었습니다.
+---
