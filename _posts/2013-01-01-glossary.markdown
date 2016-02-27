@@ -1,0 +1,8 @@
+---
+title: 정치용어집
+subtitle: 2013
+layout: default
+link: https://github.com/teampopong/popong.com-glossary
+thumbnail: glossary.png
+description: 정치 용어가 많이 어렵죠? 영문으로는 어떻게 표현해야되는지 막막하셨죠? 포퐁 정치용어집에서 빠르게 검색해보세요! (서비스는 종료하고 코드만 제공합니다.)
+---
