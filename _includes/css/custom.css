@@ -34,6 +34,10 @@ ul.social-buttons li a {
     margin-bottom: 150px;
 }
 
+.event {
+    margin: 30px 0;
+}
+
 .logo {
     margin-top: -10px;
     max-width: 200px;
@@ -44,8 +48,8 @@ ul.social-buttons li a {
 }
 
 #contact a.btn {
-    margin: 30px;
     height: 90px;
+    margin: 30px;
 }
 
 #contact a.btn small {
@@ -57,6 +61,7 @@ ul.social-buttons li a {
 }
 
 #partners .partner-logo {
+    margin: 10px auto;
     opacity: 0.4;
     filter: grayscale(100%);
         -webkit-filter: grayscale(100%);
@@ -66,8 +71,20 @@ ul.social-buttons li a {
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
-    margin: 20px;
+    margin: 10px;
     text-align: left;
     top: 20%;
     width: initial;
+}
+
+@media(max-width:480px) {
+    p {
+        line-height: 17pt;
+    }
+
+    #contact a.btn {
+        margin: 10px;
+        padding: 10px;
+        height: initial;
+    }
 }

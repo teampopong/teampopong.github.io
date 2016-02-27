@@ -372,6 +372,11 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba({{ site.color.secondary | hex_to_rgb | join: ',' }}, .9);
+}
+
+#participate .participate-hover {
     background: rgba(250,250,250,.9);
 }
 
@@ -847,24 +852,6 @@ ul.social-buttons li a:active {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-}
-
-::-moz-selection {
-    text-shadow: none;
-    background: #{{ site.color.primary }};
-}
-
-::selection {
-    text-shadow: none;
-    background: #{{ site.color.primary }};
-}
-
-img::selection {
-    background: 0 0;
-}
-
-img::-moz-selection {
-    background: 0 0;
 }
 
 body {
