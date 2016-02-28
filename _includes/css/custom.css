@@ -78,6 +78,16 @@ ul.social-buttons li a {
     width: initial;
 }
 
+#portfolio .portfolio-link {
+    overflow: hidden;
+
+}
+
+#portfolio .portfolio-img {
+    height: 100%;
+    width: 100%;
+}
+
 @media(max-width:480px) {
     header .intro-text {
         padding-top: 150px;
