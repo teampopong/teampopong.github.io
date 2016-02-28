@@ -231,14 +231,17 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.secondary }};
 }
 
+.navbar-default {
+    border: 0;
+    background-color: transparent;
+    -webkit-transition: padding .3s;
+    -moz-transition: padding .3s;
+    transition: padding .3s;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
-        border: 0;
-        background-color: transparent;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
     }
 
     .navbar-default .navbar-brand {
@@ -353,7 +356,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin-bottom: 50px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
