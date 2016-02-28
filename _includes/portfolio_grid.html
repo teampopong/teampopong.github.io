@@ -9,16 +9,16 @@
         <div class="row">
         {% for post in site.posts %}
             <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="portfolio-caption">
+                    <h4>{{ post.title }}</h4>
+                    <p class="text-muted">{{ post.subtitle }}</p>
+                </div>
                 <a href="{{ post.link }}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">{{ post.description }}</div>
                     </div>
                     <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                 </a>
-                <div class="portfolio-caption">
-                    <h4>{{ post.title }}</h4>
-                    <p class="text-muted">{{ post.subtitle }}</p>
-                </div>
             </div>
         {% endfor %}
         </div>
