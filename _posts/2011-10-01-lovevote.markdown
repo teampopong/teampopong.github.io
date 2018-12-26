@@ -3,6 +3,6 @@ title: 애정선거
 subtitle: 2011
 layout: default
 thumbnail: vote.png
-link: http://popong.com/iamseoulmayor/promotion.html
+link: #
 description: 2011년 10.26 서울시장 선거 후보들의 공약을 무작위로 보여주며, 나와 가장 잘 맞는 후보를 추천해주는 서비스! 당신의 성향과 가장 가까운 후보는 누구인지 알아보러 갈까요?
 ---
