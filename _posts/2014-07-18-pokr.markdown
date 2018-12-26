@@ -1,6 +1,6 @@
 ---
 title: 대한민국 정치의 모든 것 (대정모)
-subtitle: 2014~
+subtitle: 2014~2018
 layout: default
 link: http://pokr.kr
 thumbnail: pokr.png

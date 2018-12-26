@@ -1,6 +1,6 @@
 ---
 title: 대한민국 지도 데이터형 변환
-subtitle: 2013~
+subtitle: 2013
 layout: default
 link: https://github.com/southkorea/southkorea-maps
 thumbnail: maps.png
