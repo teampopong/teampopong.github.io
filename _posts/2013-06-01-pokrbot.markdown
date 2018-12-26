@@ -1,0 +1,8 @@
+---
+title: 포커봇
+subtitle: 2013~2016
+layout: default
+link: https://twitter.com/pokrbot
+thumbnail: pokrbot.png
+description: 국회에서 발의되는 의안들을 트위터로 받아보세요!
+---
