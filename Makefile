@@ -2,10 +2,9 @@ build:
 	jekyll build --config _config.yml
 
 serve:
-	jekyll serve --watch --config _config.yml,_config_dev.yml
+	jekyll serve --watch --config _config.yml
 
 deploy:
-	# See http://drewsilcock.co.uk/custom-jekyll-plugins/
 	jekyll build
 	cd _site && \
 		git add . && \

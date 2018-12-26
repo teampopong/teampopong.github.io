@@ -5,9 +5,9 @@
     <description></description>
     <link>https://popong.com/</link>
     <atom:link href="https://popong.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 24 Mar 2018 11:11:31 +0900</pubDate>
-    <lastBuildDate>Sat, 24 Mar 2018 11:11:31 +0900</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <pubDate>Wed, 26 Dec 2018 16:25:31 +0900</pubDate>
+    <lastBuildDate>Wed, 26 Dec 2018 16:25:31 +0900</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>대한민국 정치의 모든 것 (대정모)</title>
@@ -27,6 +27,17 @@
         <pubDate>Mon, 21 Apr 2014 00:00:00 +0900</pubDate>
         <link>https://popong.com/2014/04/21/api/</link>
         <guid isPermaLink="true">https://popong.com/2014/04/21/api/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>포커봇</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Jun 2013 00:00:00 +0900</pubDate>
+        <link>https://popong.com/2013/06/01/pokrbot/</link>
+        <guid isPermaLink="true">https://popong.com/2013/06/01/pokrbot/</guid>
         
         
       </item>
